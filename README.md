@@ -1,7 +1,7 @@
 # SVT Utvecklartest Fullstack
 
 Bygg en webbapp för att presentera olika karaktärer från “star wars”-universumet.
-Frontend ska vara byggd i ReactJS, och backend i Kotlin/Java. Utöver det kan du välja teknologier fritt.
+Frontend ska vara byggd i ReactJS, och backend gärna i Kotlin/Java men det funkar också med TypeScript. Utöver det kan du välja teknologier fritt.
 
 I det här repository:t finns det data om karaktärer från star wars; rymdskepp med mera. Den hittar du i `data.json`.
 
